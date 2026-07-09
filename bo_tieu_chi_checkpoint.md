@@ -56,6 +56,11 @@ flowchart LR
 
 **Minh chứng yêu cầu**: Đánh giá 360° (quản lý, đồng nghiệp, cấp dưới), ghi nhận trong các cuộc họp, phản hồi từ học viên.
 
+> **Từ Điển Minh Chứng Đi Kèm (Khảo sát Đánh giá 360° đối với Trụ 2):**
+> - **Mức 3 (Đạt)**: Đạt ≥ 60% tỷ lệ đồng thuận tích cực từ đồng nghiệp/cấp dưới.
+> - **Mức 4 (Tốt)**: Đạt ≥ 80% tỷ lệ đồng thuận tích cực từ đồng nghiệp/cấp dưới.
+> - **Mức 5 (Xuất sắc)**: Đạt ≥ 90% tỷ lệ đồng thuận tích cực từ đồng nghiệp/cấp dưới **VÀ** có minh chứng cụ thể (email, tin nhắn, sự việc cụ thể) về việc giúp đỡ/lan tỏa năng lượng tích cực cho tập thể.
+
 ---
 
 ### Trụ 3: Tinh Thần Học Tập & Phát Triển — Trọng số 25%
@@ -103,7 +108,7 @@ flowchart LR
 ### Điều kiện bổ sung cho hệ số thâm niên:
 
 > [!WARNING]
-> Hệ số thâm niên **chỉ được áp dụng** khi nhân viên đạt tối thiểu mức **"Đạt" (≥ 3.0 điểm)** ở Trụ 2 (Thái độ) **VÀ** Trụ 3 (Học tập). Điều này đảm bảo thâm niên chỉ là lợi thế khi đi kèm thái độ tích cực — **không phải phần thưởng cho sự trì trệ lâu năm**.
+> Hệ số thâm niên **chỉ được áp dụng** khi nhân viên đạt tối thiểu mức **"Đạt" (≥ 3.0 điểm)** ở Trụ 2 (Thái độ), Trụ 3 (Học tập) **VÀ** Trụ 1 (Đóng góp) (hoặc điểm Phần C đối với bộ phận chuyên môn). Không thể tăng lương cho một nhân sự có chuyên môn dưới chuẩn chỉ vì họ lâu năm và có thái độ tốt.
 
 ---
 
@@ -127,7 +132,7 @@ flowchart LR
 
 $$\text{Điểm cuối cùng} = \left(\sum_{i=1}^{4} \text{Điểm trụ}_i \times \text{Trọng số}_i\right) \times \text{Hệ số thâm niên}$$
 
-> Với NV Phòng Đào tạo: Điểm trụ = (Phần A × 60%) + (Phần C × 40%)
+> Với NV Phòng Đào tạo: Điểm tổng hợp trước hệ số = (Điểm Phần A × 60%) + (Điểm Phần C × 40%)
 
 ### Bảng xếp loại:
 
@@ -200,10 +205,10 @@ $$\text{Điểm cuối cùng} = \left(\sum_{i=1}^{4} \text{Điểm trụ}_i \tim
 | **TB Phần A (có trọng số)** | **2.73** | |
 | **Phần C – Tiêu chí Đào tạo** | **2.00** | Nội dung cũ, hài lòng 3.2/5, chưa áp dụng e-learning |
 | Tổng (A×60% + C×40%) | **2.44** | |
-| Hệ số thâm niên (3–5 năm) | **× 1.00 ❌** | BỊ KHÓA — Thái độ & Học tập < 3.0 |
+| Hệ số thâm niên (3–5 năm) | **× 1.00 ❌** | BỊ KHÓA — Thái độ, Học tập & Phần C đều < 3.0 |
 | **ĐIỂM CUỐI CÙNG** | **2.44** | 🟡 **CẦN CỐ GẮNG** |
 
-> **→ Giữ nguyên lương hoặc tăng nhẹ dưới 1 triệu** + PIP 3 tháng. Nếu nâng Thái độ & Học tập lên 3.0, hệ số x1.10 sẽ mở khóa → có thể vươn lên Đạt yêu cầu.
+> **→ Giữ nguyên lương hoặc tăng nhẹ dưới 1 triệu** + PIP 3 tháng. Nếu nâng Thái độ, Học tập và điểm chuyên môn (Phần C) lên tối thiểu 3.0, hệ số x1.10 sẽ mở khóa → có thể vươn lên Đạt yêu cầu.
 
 ---
 
@@ -220,7 +225,7 @@ $$\text{Điểm cuối cùng} = \left(\sum_{i=1}^{4} \text{Điểm trụ}_i \tim
 | **TB Phần A (có trọng số)** | **1.75** | |
 | **Phần C – Tiêu chí Đào tạo** | **1.00** | Nội dung cũ 100%, 35% HV áp dụng, từ chối công cụ mới |
 | Tổng (A×60% + C×40%) | **1.45** | |
-| Hệ số thâm niên (5–8 năm) | **× 1.00 ❌** | BỊ KHÓA — Thái độ & Học tập < 3.0 |
+| Hệ số thâm niên (5–8 năm) | **× 1.00 ❌** | BỊ KHÓA — Vi phạm toàn bộ điều kiện |
 | **ĐIỂM CUỐI CÙNG** | **1.45** | 🔴 **KHÔNG ĐẠT YÊU CẦU** |
 
 > **→ Giảm lương hoặc chấm dứt hợp đồng.** Nếu cho cơ hội cuối: PIP 3 tháng, cam kết cập nhật ≥ 50% nội dung + học 1 công cụ e-learning. Vẫn dưới 2.0 kỳ sau → chấm dứt HĐLĐ.
